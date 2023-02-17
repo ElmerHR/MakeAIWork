@@ -1,6 +1,6 @@
-from dataclasses import dataclasses
+from dataclasses import dataclass
 
-@dataclasses
+@dataclass
 class Marslander:
     length: int
     width: float
