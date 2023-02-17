@@ -1,64 +1,19 @@
 .idea/
 project/.bash_history
-<<<<<<< HEAD
 notebooks/*_answers.ipynb
 notebooks/examples
-=======
->>>>>>> a08a271fb2c87009dcac5ce46e3abd23e353dbeb
 bin/
 lib/
 pyvenv.cfg
 lib64
 etc/
 share/
-<<<<<<< HEAD
-=======
-scripts/.DS_Store
-scripts/solar_system/.DS_Store
->>>>>>> a08a271fb2c87009dcac5ce46e3abd23e353dbeb
 env/
 log.txt
 **/.DS_Store
 .DS_Store
-<<<<<<< HEAD
 **/__pycache__
 **/.ipynb_checkpoints/
 **/*.ipynb:Zone.Identifier
 
 
-=======
-scripts/shape/__pycache__
-projects/proj_gezondheidszorg/rest_server/medisch_centrum_randstad/medisch_centrum_randstad/__pycache__
-projects/proj_gezondheidszorg/rest_server/medisch_centrum_randstad/rest_api/__pycache__
-projects/proj_gezondheidszorg/rest_server/medisch_centrum_randstad/rest_api/management/commands/__pycache__
-projects/proj_gezondheidszorg/rest_server/medisch_centrum_randstad/rest_api/migrations/__pycache__
-projects/proj_gezondheidszorg/rest_server/medisch_centrum_randstad/rest_api/migrations/0001_initial.py
-projects/proj_gezondheidszorg/rest_server/medisch_centrum_randstad/rest_api/favicon/site.webmanifest
-practica/week1/notebooks/numpy/csv/.ipynb_checkpoints/
-practica/week1/notebooks/neural/
-practica/week1/notebooks/variables/.ipynb_checkpoints/
-practica/week1/.ipynb_checkpoints/
-practica/pics/.ipynb_checkpoints/mars.nasa-checkpoint.jpg
-practica/pip/.ipynb_checkpoints/requirements-checkpoint.txt
-practica/week2/.ipynb_checkpoints/
-scripts/pytorch/backprop_example.py
-practica/week2/notebooks/dictionaries_with_solutions.ipynb
-practica/scikit-learn.ipynb
-practica/timer.py
-practica/week2/notebooks/.ipynb_checkpoints/dictionaries-checkpoint.ipynb
-practica/week2/notebooks/.ipynb_checkpoints/dictionaries_with_solutions-checkpoint.ipynb
-practica/week2/notebooks/.ipynb_checkpoints/sets-checkpoint.ipynb
-practica/week2/notebooks/.ipynb_checkpoints/sets_with_solutions-checkpoint.ipynb
-practica/week2/notebooks/sets_with_solutions.ipynb
-practica/week2/notebooks/.ipynb_checkpoints/dictionaries_with_solutions_old-checkpoint.ipynb
-practica/week1/notebooks/variables/booleans_with_solutions.ipynb
-practica/week1/notebooks/variables/lists_with_solutions.ipynb
-practica/week2/notebooks/.ipynb_checkpoints/functions_with_solutions-checkpoint.ipynb
-practica/week2/notebooks/.ipynb_checkpoints/functions-checkpoint.ipynb
-practica/week2/notebooks/.ipynb_checkpoints/numpy_opdracht1-checkpoint.ipynb
-practica/week2/notebooks/functions_with_solutions.ipynb
-practica/week1/notebooks/variables/tuples_with_solutions.ipynb
-practica/pics/.ipynb_checkpoints/mercury-checkpoint.jpg
-practica/csv/.ipynb_checkpoints/planets-checkpoint.csv
-practica/week2/notebooks/.ipynb_checkpoints/dictionaries_with_solutions1-checkpoint.ipynb
->>>>>>> a08a271fb2c87009dcac5ce46e3abd23e353dbeb
